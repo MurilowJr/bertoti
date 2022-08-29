@@ -2,6 +2,8 @@
 
 Titus Winters, Software Engineering at Google
 
+O texto explica que programação é essencial para a engenharia de software, mas que são coisas bem diferentes, pois o engenheiro de software precisa tomar decisões, se adaptar a resolução de problemas complexos. A programação é feita para resolver estes problemas, portanto, embora sejam coisas diferentes, eles são interligados.
+
 Reserva de Hotel
 
 Requisitos funcionais:
