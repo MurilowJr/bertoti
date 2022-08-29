@@ -6,7 +6,7 @@ O texto explica que programação é essencial para a engenharia de software, ma
 
 Reserva de Hotel
 
-"""
+'''
 Requisitos funcionais:
   O funcionário (ator) fará o cadastramento de hóspede com nome, RG, CPF e idade;
   Busca de hóspede via nome e CPF;
@@ -14,5 +14,5 @@ Requisitos funcionais:
   Buscar a disponibilidade de quartos;
   Cadastramento de hóspedes para quartos;
   Buscar o quarto cadastrado para hóspede com CPF;
-"""
+'''
   
