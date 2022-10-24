@@ -14,4 +14,4 @@ Reserva de Hotel
   - Cadastramento de hóspedes para quartos;
   - Buscar o quarto cadastrado para hóspede com CPF;
 
-  
+  Nota: colocar um metodo comparativo de nome na classe de hospedes, colocar também um metodo comparativo no quarto, para poder verificar a disponibilidade dos quartos
