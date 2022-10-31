@@ -4,11 +4,20 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Hotel {
-    private List<Hospede> hospede = new LinkedList<Hospede>();
+    private List<Hospede> hospedes = new LinkedList<Hospede>();
     private List<Quarto> quarto = new LinkedList<Quarto>();
     private List<Funcionario> funcionario = new LinkedList<Funcionario>();
 
     public void cadastrarHospede(Hospede host) {
-        hospede.add(host);
+        hospedes.add(host);
+    }
+
+    public Hospede buscarHospedePorCpf (String cpf) {
+        for(Hospede hospede : hospedes) {
+            if (hospede.getCpf().equals(cpf)){
+                return hospede;
+            }
+        }
+        return null;
     }
 }

@@ -2,11 +2,11 @@ package entities;
 
 public class Hospede {
     private String nome;
-    private int cpf;
+    private String cpf;
     private int rg;
     private int idade;
     
-    public Hospede(String nome, int cpf, int rg, int idade) {
+    public Hospede(String nome, String cpf, int rg, int idade) {
         this.nome = nome;
         this.cpf = cpf;
         this.rg = rg;
@@ -24,12 +24,12 @@ public class Hospede {
     }
 
 
-    public int getCpf() {
+    public String getCpf() {
         return cpf;
     }
 
 
-    public void setCpf(int cpf) {
+    public void setCpf(String cpf) {
         this.cpf = cpf;
     }
 
@@ -52,14 +52,7 @@ public class Hospede {
     public void setIdade(int idade) {
         this.idade = idade;
     }
-
-    public boolean comparar(int cpf){
-        if (cpf == getCpf()){
-            return true;
-        } else {
-            return false;
-        }
-    }
+    
 
 
 
