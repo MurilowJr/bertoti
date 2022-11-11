@@ -3,6 +3,7 @@ package entities;
 public class Quarto {
     private int andar;
     private int numero;
+    private Reserva reserva;
     
     
     public Quarto(int andar, int numero, boolean disponibildade) {
@@ -22,9 +23,5 @@ public class Quarto {
     }
     public void setNumero(int numero) {
         this.numero = numero;
-    }
-
-    public boolean verificarDisponibilidade() {
-        
     }
 }
