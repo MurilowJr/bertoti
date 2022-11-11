@@ -20,4 +20,13 @@ public class Hotel {
         }
         return null;
     }
+
+    public List<Quarto> buscarQuarto(int numero){
+        for(Quarto quartos : quarto) {
+            if (quartos.getNumero() == numero){
+                return quarto;
+            }
+        }
+        return null;
+    }
 }
