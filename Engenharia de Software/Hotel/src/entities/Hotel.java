@@ -20,6 +20,10 @@ public class Hotel {
         }
         return null;
     }
+    
+    public void cadastrarQuarto(Quarto quarto) {
+    	this.quarto.add(quarto);
+    }
 
     public List<Quarto> buscarQuarto(int numero){
         for(Quarto quartos : quarto) {
@@ -28,5 +32,9 @@ public class Hotel {
             }
         }
         return null;
+    }
+    
+    public List<Hospede> getHospede() {
+    	return this.hospedes;
     }
 }
