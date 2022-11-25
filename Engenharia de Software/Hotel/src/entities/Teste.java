@@ -29,7 +29,21 @@ public class Teste {
 		//Teste para ver se encontra hospede
 		assertEquals(hospedeEncontrado.getCpf(), "44512389799");
 		
+		//Teste que define a lista de quartos, que é igual a 0
+		assertEquals(hotel.getQuarto().size(), 0);
 		
+		//Adicionar quartos
+		hotel.cadastrarQuarto(new Quarto("Suite", 302, 3, new Reserva(3, 302)));
+		hotel.cadastrarQuarto(new Quarto("Simples", 404, 4, new Reserva(4, 405)));
+		
+		//Teste para ver se os quartos foram cadastrados
+		assertEquals(hotel.getQuarto().size(), 2);
+		
+		//Teste para ver se encontra quarto
+		Quarto quartoEncontrado = hotel.buscarQuarto(404);
+		
+		//Teste para ver se encontra Quarto
+		assertEquals(quartoEncontrado.getNumero(), 404);
 	}
 
 }

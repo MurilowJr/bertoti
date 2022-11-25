@@ -37,4 +37,8 @@ public class Hotel {
     public List<Hospede> getHospede() {
     	return this.hospedes;
     }
+    
+    public List<Quarto> getQuarto() {
+    	return this.quarto;
+    }
 }
