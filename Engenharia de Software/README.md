@@ -15,7 +15,9 @@ Reserva de Hotel
   - Buscar o quarto cadastrado para hóspede com CPF;
 
   Nota: colocar um metodo comparativo de cpf na classe de hospedes, colocar também um metodo comparativo no quarto, para poder verificar a disponibilidade dos quartos
-
+2. Requisitos não-funcionais:
+  - O funcionário pode procurar o quarto através de um sistema de busca;
+  - 
 ## Diagramas
 ### Diagrama de Sequência
 <img src="https://github.com/MurilowJr/bertoti/blob/main/img/Diagrama%20de%20Sequencia.png"><br>
