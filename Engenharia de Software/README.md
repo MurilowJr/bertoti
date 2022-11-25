@@ -12,12 +12,14 @@ Reserva de Hotel
   - Cadastramento de quartos com id de quarto, andar, numero do quarto;
   - Buscar a disponibilidade de quartos;
   - Cadastramento de hóspedes para quartos;
-  - Buscar o quarto cadastrado para hóspede com CPF;
+  - Buscar o quarto cadastrado para hóspede com CPF;<br>
 
-  Nota: colocar um metodo comparativo de cpf na classe de hospedes, colocar também um metodo comparativo no quarto, para poder verificar a disponibilidade dos quartos
+  <b>Nota:</b> colocar um metodo comparativo de cpf na classe de hospedes, colocar também um metodo comparativo no quarto, para poder verificar a disponibilidade dos quartos<br>
+
 2. Requisitos não-funcionais:
-  - O funcionário pode procurar o quarto através de um sistema de busca;
-  - 
+  - O cliente pode verificar sua reserva;
+  - O funcionario pode logar atraves de seu cadastro;<br>
+  
 ## Diagramas
 ### Diagrama de Sequência
 <img src="https://github.com/MurilowJr/bertoti/blob/main/img/Diagrama%20de%20Sequencia.png"><br>
