@@ -26,4 +26,4 @@ Reserva de Hotel
 <img src="https://github.com/MurilowJr/bertoti/blob/main/img/Diagrama%20de%20casos%20de%20uso.png"><br>
 
 ### Diagrama de Classes UML
-<img src="https://github.com/MurilowJr/bertoti/blob/main/img/Diagrama%20de%20Classes%20UML.drawio.png">
+<img src="https://github.com/MurilowJr/bertoti/blob/main/Engenharia%20de%20Software/Diagrama%20de%20Classes%20UML.drawio.png">
