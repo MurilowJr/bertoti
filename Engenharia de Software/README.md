@@ -15,3 +15,13 @@ Reserva de Hotel
   - Buscar o quarto cadastrado para hóspede com CPF;
 
   Nota: colocar um metodo comparativo de cpf na classe de hospedes, colocar também um metodo comparativo no quarto, para poder verificar a disponibilidade dos quartos
+
+## Diagramas
+### Diagrama de Sequência
+<img src="https://github.com/MurilowJr/bertoti/blob/main/img/Diagrama%20de%20Sequencia.png"><br>
+
+### Diagrama de Casos de Uso
+<img src="https://github.com/MurilowJr/bertoti/blob/main/img/Diagrama%20de%20casos%20de%20uso.png"><br>
+
+### Diagrama de Classes UML
+<img src="https://github.com/MurilowJr/bertoti/blob/main/img/Diagrama%20de%20Classes%20UML.drawio.png">
