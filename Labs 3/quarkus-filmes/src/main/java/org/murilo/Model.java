@@ -21,4 +21,8 @@ public class Model {
         }
         return null;
     }
+
+    public List<Filmes> getFilmes(){
+        return filmes;
+    }
 }
