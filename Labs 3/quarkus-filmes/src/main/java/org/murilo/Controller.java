@@ -17,9 +17,18 @@ public class Controller {
 
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    @Path("{nome}/{midia}/")
-    public Response filme1(@PathParam("nome") String nome, @PathParam("midia") String midia){
+    @Path("{nome}/{midia}/{duracao}")
+    public Response filme1(@PathParam("nome") String nome, @PathParam("midia") String midia, @PathParam("duracao") String duracao){
         List<Filmes> filmesEncontrados = model.buscarTipo(new Tipo(nome, midia));
+        String json = new Gson().toJson(filmesEncontrados);
+        return Response.status(200).entity(json).build();
+    }
+
+    @GET
+    @Produces(MediaType.APPLICATION_JSON)
+    @Path("{nome}/")
+    public Response filme2(@PathParam("nome") String nome, @PathParam("midia") String midia, @PathParam("duracao") String duracao) {
+        List<Filmes> filmesEncontrados = model.buscarNome(nome);
         String json = new Gson().toJson(filmesEncontrados);
         return Response.status(200).entity(json).build();
     }

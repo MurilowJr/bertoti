@@ -23,4 +23,12 @@ public class Model {
         }
         return filmesEncontrados;
     }
+
+    public List<Filmes> buscarNome(String nome){
+        List<Filmes> filmesEncontrados = new LinkedList<Filmes>();
+        for(Filmes filme:filmes){
+            if(filme.getTipo().getNome().equals(nome)) filmesEncontrados.add(filme);
+        }
+        return filmesEncontrados;
+    }
 }

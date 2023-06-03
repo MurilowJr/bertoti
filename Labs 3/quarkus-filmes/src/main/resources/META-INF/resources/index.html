@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Estacionamento</title>
+    <title>Filmes</title>
 
 
     <script src="js/jquery.js"></script>
@@ -23,7 +23,7 @@
 
 				$("#dadosFilme").empty();
 
-				var url = "/filme/"+nome+"/"+midia+"/";
+				var url = "/filmes/"+nome+"";
 
 
 				$.getJSON(url, function(data) {
@@ -73,9 +73,9 @@
         <label>Mídia</label>
         <select id="midia" class="input-large form-control">
             <option value="" selected="selected">Mídia (VHS, DVD, Digital...)</option>
-            <option value="vhs">VHS</option>
-            <option value="dvd">DVD</option>
-            <option value="netflix">Netflix</option>
+            <option value="VHS">VHS</option>
+            <option value="DVD">DVD</option>
+            <option value="Netflix">Netflix</option>
 
         </select>
     </div>
@@ -97,7 +97,7 @@
 <button id="busca" class="btn btn-primary col-md-offset-5">Buscar</button>
 
 <table class="table table-bordered">
-    <caption>Carros</caption>
+    <caption>Filmes</caption>
     <thead>
     <tr>
         <th>Nome</th>
