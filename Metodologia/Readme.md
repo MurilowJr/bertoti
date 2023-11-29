@@ -4,6 +4,7 @@
 # Sumário
 - <a href="sobre-mim">Sobre mim
 - <a href="meus-projetos">Meus Projetos
+  - <a href="lola-assistente-virtual">Lola - Assistente Virtual
 
 <h2>Sobre mim</h2>
 <p align="justify">Graduando pela FATEC São José dos Campos - Profº Jessen Vidal, matriculado no 4º Semestre do curso superior Tecnólogo em Banco de Dados</p>
@@ -43,3 +44,13 @@
 contar histórias, despertador, traduzir do inglês para português, ensinar o passo a passo para escovar os dentes, jogos,
 dicionário e soletrar palavras. Neste projeto não era necessário implementar interface, então fizemos excluisvamente para rodar direto do Ambiente de Desenvolvimento
 Integrado (IDE).</p>
+
+### Funcionalidade da LOLA
+
+<a href="https://youtu.be/jjufDyLCwD0" target="_blank"><img src="http://img.youtube.com/vi/1kOpWTWIV2Q/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
+
+
+
+
+
