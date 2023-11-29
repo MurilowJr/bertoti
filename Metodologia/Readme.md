@@ -4,7 +4,7 @@
 # Sumário
 - <a href="#sobre-mim">Sobre mim
 - <a href="#meus-projetos">Meus Projetos
-  - <a href="#lola-assistente-virtual">Lola - Assistente Virtual
+  - <a href="#lola---assistente-virtual">Lola - Assistente Virtual
 
 <h2>Sobre mim</h2>
 <p align="justify">Graduando pela FATEC São José dos Campos - Profº Jessen Vidal, matriculado no 4º Semestre do curso superior Tecnólogo em Banco de Dados</p>
