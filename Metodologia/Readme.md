@@ -1,5 +1,5 @@
 <h1>Portfólio das APIs - Murilo Junior</h1>
-<p align="center"><img src="https://github.com/MurilowJr/bertoti/blob/main/Metodologia/img/murilo.jpeg" width=50%></p>
+<p align="center"><img src="https://github.com/MurilowJr/bertoti/blob/main/Metodologia/img/murilo.jpeg" width=25%></p>
 <p>Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
 # Sumário
@@ -59,8 +59,16 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 <p>Ferramentas de Desenvolvimento: <a href="https://code.visualstudio.com/">VSCode</a>, <a href="https://www.jetbrains.com/pt-br/pycharm/download/?section=windows">PyCharm Community Edition</a></p>
 
-<h3>Contribuições Pessoais</h3>
-<p align="justify">Como desenvolvedor, ajudei a tratar dos erros dos códigos, e também desenvolvi a funcionalidade de tradução de palavras de português para inglês.</p>
+
+### Contribuições Pessoais
+<details>
+<p align="justify">Atuei no projeto como desenvolvedor, além disso, também fui responsável por criar a logomarca do projeto.</p>
+<summary>A seguir os detalhes de como foi minha contribuição para a aplicação:</summary>
+  <p align="justify"><b><i>- Funcionalidade Tradução:</i></b> Tive a oportunidade de desenvolver a parte de tradução da assistente, com a biblioteca googletrans     para fazer a tradução, speech_recognition para reconhecimento de voz e pyttsx3 para a voz da assistente. No momento em que a criança fala uma palavra, o reconhecimento de voz ouve e transforma o audio em palavras, e traduz de português para inglês, falando a palavra com a linguagem nativa em inglês, fazendo a experiência ser completa.
+
+  </p>
+  <b><i>- Tratamento de erros:</i></b> 
+</details>
 
 <h3>Lições Aprendidas</h3>
 <p align="justify">Tive meu primeiro contato com bibliotecas externas em Python. Também ja tinha noções básicas na metodologia ágil, ajudando a entender como
