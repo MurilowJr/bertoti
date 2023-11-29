@@ -24,3 +24,9 @@
 <h4>1° Semestre - 01/2022</h4>
 <p align="justify">Parceiro acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec SJC</a></p>
 <p align="center"><img src="https://github.com/MurilowJr/bertoti/blob/main/Metodologia/sem1/img/avatar.jpeg" width=50%></p>
+<p>Lola é a assistente virtual voltada para crianças na faixa etária de 5 a 8 anos.</p>
+<p></p>Ativada por comando de voz, utilizando a palavra chave de" Oi Lola" sendo possivel que ela faça cálculos matemáticos, 
+contar histórias, despertador, traduzir do inglês para português, ensinar o passo a passo para escovar os dentes, jogos,
+dicionário e soletrar palavras.</p>
+
+<p>A Logo foi inspirada na Dora a Aventureira, pela sua insistência em querer ajudar e pedir para as crianças repetirem o que vêm na tela, o design foi feito por mim.</p>
