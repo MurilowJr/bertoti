@@ -11,10 +11,11 @@
   também desenvolvo relatórios com JasperReports.</p>
 <p align="center">
   <a href="www.linkedin.com/in/murilo-josé-de-brito-junior-32403b157">
-    <img src="https://img.shields.io/badge/Linkedin-%23026AA7.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    Linkedin
   </a>
+  <>
   <a href="https://github.com/MurilowJr">
-    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github"/>
+    Github
   </a>
 </p>
 <hr>
@@ -22,3 +23,4 @@
 <h3>Lola - Assistente Virtual</h3>
 <h4>1° Semestre - 01/2022</h4>
 <p align="justify">Parceiro acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec SJC</a></p>
+<p align="center"><img src="https://github.com/MurilowJr/bertoti/blob/main/Metodologia/img/avatar.jpeg"></p>
