@@ -2,9 +2,9 @@
 <p>Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
 # Sumário
-- <a href="sobre-mim">Sobre mim
-- <a href="meus-projetos">Meus Projetos
-  - <a href="lola-assistente-virtual">Lola - Assistente Virtual
+- <a href="#sobre-mim">Sobre mim
+- <a href="#meus-projetos">Meus Projetos
+  - <a href="#lola-assistente-virtual">Lola - Assistente Virtual
 
 <h2>Sobre mim</h2>
 <p align="justify">Graduando pela FATEC São José dos Campos - Profº Jessen Vidal, matriculado no 4º Semestre do curso superior Tecnólogo em Banco de Dados</p>
@@ -59,9 +59,82 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 <p>Ferramentas de Desenvolvimento: <a href="https://code.visualstudio.com/">VSCode</a>, <a href="https://www.jetbrains.com/pt-br/pycharm/download/?section=windows">PyCharm Community Edition</a></p>
 
 <h3>Contribuições Pessoais</h3>
-<p align="justify">Com noção básica em orientação a objetos, pude ajudar a tratar os erros dos códigos, tive meu primeiro contato com bibliotecas externas em Python
-e também desenvolvi a funcionalidade de tradução de palavras de português para inglês. Também ja tinha noções básicas na metodologia ágil, ajudando a entender como
+<p align="justify">Como desenvolvedor, ajudei a tratar dos erros dos códigos, e também desenvolvi a funcionalidade de tradução de palavras de português para inglês.</p>
+
+<h3>Lições Aprendidas</h3>
+<p align="justify">Tive meu primeiro contato com bibliotecas externas em Python. Também ja tinha noções básicas na metodologia ágil, ajudando a entender como
 funciona na realidade da gestão do projeto.</p>
+
+<h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Github</td>
+      <td>★★★★★★★★★★</td>
+    </tr>
+    <tr>
+      <td>VSCode</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>PyCharm</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+  </table>
+</details>
+
+<h3>Soft Skills</h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+  <br>
+  <p><a href="#sumário">Voltar para o início</a></p>
+
 
 
 
