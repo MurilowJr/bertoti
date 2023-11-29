@@ -50,6 +50,19 @@ Integrado (IDE).</p>
 <a href="https://youtu.be/jjufDyLCwD0" target="_blank"><img src="http://img.youtube.com/vi/1kOpWTWIV2Q/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
+<h3>Tecnologias Utilizadas</h3>
+
+<p>Linguagem Utilizada: <a href="https://www.python.org/">Python</a></p>
+
+<p>Versionamento: <a href="https://www.github.com/">Github</a></p>
+
+<p>Ferramentas de Desenvolvimento: <a href="https://code.visualstudio.com/">VSCode</a>, <a href="https://www.jetbrains.com/pt-br/pycharm/download/?section=windows">PyCharm Community Edition</a></p>
+
+<h3>Contribuições Pessoais</h3>
+<p align="justify">Com noção básica em orientação a objetos, pude ajudar a tratar os erros dos códigos, tive meu primeiro contato com bibliotecas externas em Python
+e também desenvolvi a funcionalidade de tradução de palavras de português para inglês. Também ja tinha noções básicas na metodologia ágil, ajudando a entender como
+funciona na realidade da gestão do projeto.</p>
+
 
 
 
